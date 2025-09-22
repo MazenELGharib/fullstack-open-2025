@@ -1,9 +1,30 @@
-# Full Stack Open 2025 Exercises
+# Full Stack Open Course Exercises
 
-This repository contains my solutions for the **Full Stack Open 2025** course by the University of Helsinki.  
-It covers **all parts (0–8)** of the course, including frontend and backend development, state management, testing, databases, and GraphQL.
+**This repository contains my solutions for the Full Stack Open 2025 course by the University of Helsinki. The course is a hands-on introduction to modern web development and covers the entire stack:**
 
-The purpose of this repository is to demonstrate the concepts and exercises learned throughout the course, and to serve as a reference for building full-stack applications.
+- Frontend: React, routing, hooks, state management (Context API, Redux)
+
+- Backend: Node.js, Express, REST APIs, authentication, MongoDB, PostgreSQL
+
+- Testing: Unit, integration, and end-to-end testing with Jest and Playwright
+
+- GraphQL: Apollo Server & Client, queries, mutations, subscriptions
+
+- TypeScript: Strongly typed React and Node.js applications
+
+- Mobile Development: React Native and navigation
+
+- DevOps: CI/CD pipelines, Docker, cloud deployment
+
+- Databases: Working with NoSQL (MongoDB) and SQL (PostgreSQL)
+
+## This repository serves as:
+
+- A record of completed exercises from all parts of the course
+
+- A reference for building full-stack applications
+
+- A way to practice clean, maintainable, production-ready code
 
 ---
 
