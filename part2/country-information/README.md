@@ -8,9 +8,9 @@ It is a **React frontend** built with **Vite** and uses the **OpenWeather API** 
 ## Setup
 
 ### 1. Install dependencies
- ```bash
- yarn install
-
+```bash
+yarn install
+```
 ---
 ### 2. Configure Environment Variables
 
@@ -27,5 +27,6 @@ VITE_SOME_KEY=YOUR_OPENWEATHER_API_KEY
 const api_key = import.meta.env.VITE_SOME_KEY;
 
 - Run the development server
- ```bash
- yarn dev
+```bash
+yarn dev
+```
