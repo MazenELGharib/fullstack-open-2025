@@ -2,21 +2,21 @@
 
 **This repository contains my solutions for the Full Stack Open Course course by the University of Helsinki. The course is a hands-on introduction to modern web development and covers the entire stack:**
 
-- Frontend: React, routing, hooks, state management (Context API, Redux)
+- **Frontend:** React, routing, hooks, state management (Context API, Redux)
 
-- Backend: Node.js, Express, REST APIs, authentication, MongoDB, PostgreSQL
+- **Backend:** Node.js, Express, REST APIs, authentication, MongoDB, PostgreSQL
 
-- Testing: Unit, integration, and end-to-end testing with Jest and Playwright
+- **Testing:** Unit, integration, and end-to-end testing with Jest and Playwright
 
-- GraphQL: Apollo Server & Client, queries, mutations, subscriptions
+- **GraphQL:** Apollo Server & Client, queries, mutations, subscriptions
 
-- TypeScript: Strongly typed React and Node.js applications
+- **TypeScript:** Strongly typed React and Node.js applications
 
-- Mobile Development: React Native and navigation
+- **Mobile Development:** React Native and navigation
 
-- DevOps: CI/CD pipelines, Docker, cloud deployment
+- **DevOps:** CI/CD pipelines, Docker, cloud deployment
 
-- Databases: Working with NoSQL (MongoDB) and SQL (PostgreSQL)
+- **Databases:** Working with NoSQL (MongoDB) and SQL (PostgreSQL)
 
 ## This repository serves as:
 
