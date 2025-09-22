@@ -1,6 +1,6 @@
 # Full Stack Open Course Exercises
 
-**This repository contains my solutions for the Full Stack Open 2025 course by the University of Helsinki. The course is a hands-on introduction to modern web development and covers the entire stack:**
+**This repository contains my solutions for the Full Stack Open Course course by the University of Helsinki. The course is a hands-on introduction to modern web development and covers the entire stack:**
 
 - Frontend: React, routing, hooks, state management (Context API, Redux)
 
