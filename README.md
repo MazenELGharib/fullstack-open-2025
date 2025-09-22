@@ -9,56 +9,154 @@ The purpose of this repository is to demonstrate the concepts and exercises lear
 
 ## Repository Structure
 
-fullstack-open-2025/
-├── part0/ # Introduction, environment setup, exercises
-├── part1/ # Fundamentals of React
-├── part2/ # React applications (e.g., country information app)
-├── part3/ # Backend development (Notes app with PostgreSQL)
-├── part4/ # Testing backend and frontend
-├── part5/ # State management with Redux
-├── part6/ # Blog backend development with PostgreSQL
-├── part7/ # GraphQL APIs and Apollo Client/Server
-├── part8/ # Advanced frontend topics
+fullstack-open-course-2025/
+├── part 0/ # Web Fundementals
+├── part 1/ # Introduction to React
+├── part 2/ # Communicating with server
+├── part 3/ # Programming a server with NodeJS and Express 
+├── part 4/ # Testing Express server, User administration
+├── part 5/ # Testing React Apps
+├── part 6/ # Advanced state management
+├── part 7/ # React router, Custom hooks, Styling app with CSS and webpack
+├── part 8/ # GraphQL
+├── part 9/ # TypeScript
+├── part 10/ # React Native
+├── part 11/ # CI/CD
+├── part 12/ # Containers
+├── part 13/ # Using relational databases
 └── README.md # This file
 
 ---
 
 ## Overview of Parts
 
-### Part 0
-Introduction to web development, Git, Node.js, and React basics.
+### Part 0 – Fundamentals of Web apps
 
-### Part 1
-React fundamentals including components, props, state, and basic interactivity.
+- How the web works (HTTP, browsers, servers)
 
-### Part 2
-Building React applications, working with REST APIs, and integrating external services (e.g., country information and weather data).
+- Basic HTML & CSS
 
-### Part 3
-Backend development using Node.js and Express. CRUD operations, REST API design, and integration with a database (PostgreSQL instead of MongoDB).
+- Introduction to JavaScript
 
-### Part 4
-Testing backend and frontend applications using unit and integration tests, including Jest and React Testing Library.
+- Intro to Git, version control workflow
 
-### Part 5
-State management using Redux, connecting React components to a centralized store, and handling asynchronous actions.
+### Part 1 – Introduction to React
 
-### Part 6
-Full backend applications with Node.js, Express, and PostgreSQL. User authentication and CRUD operations for a blog application.
+- React components, props, and state
 
-### Part 7
-GraphQL APIs and Apollo Client/Server integration. Querying, mutations, and subscriptions.
+- Event handling and conditional rendering
 
-### Part 8
-Advanced frontend topics including performance optimization, caching, accessibility, and deployment considerations.
+- Rendering lists and working with forms
 
----
+- Component decomposition and debugging
 
-## Notes
+### Part 2 – Communicating with Server
 
-- Backend parts use **PostgreSQL** instead of **MongoDB** to practice relational database concepts.  
-- Some parts use databases or API keys; instructions for running those parts will be included inside their respective folders.  
-- This repository demonstrates the full learning path of the course while showing practical full-stack development skills.
+- Fetching data with fetch / Axios
+
+- Rendering data from REST APIs
+
+- Creating, updating, and deleting resources
+
+- Using the browser dev tools to inspect network requests
+
+### Part 3 – Programming a Server with NodeJS and MongoDB
+
+- Creating a REST API with Express
+
+- Connecting backend to MongoDB
+
+- Environment variables and error handling
+
+- Building and deploying a fullstack app (frontend + backend)
+
+### Part 4 – Testing Express Server and User Administration
+
+- Unit and integration testing with Jest & Supertest
+
+- Test organization and coverage
+
+- User authentication & authorization
+
+- Token-based login (JWT)
+
+### Part 5 – Testing React Apps
+
+- Component testing with React Testing Library
+
+- Mocking API calls
+
+- End-to-end testing with Playwright or Cypress
+
+### Part 6 – Advanced State Management
+
+- Redux fundamentals and store setup
+
+- Actions, reducers, thunks, and middleware
+
+- Using Redux Toolkit
+
+- Managing side effects in React applications
+
+### Part 7 – React Router, Custom Hooks, Styling
+
+- Client-side routing with React Router
+
+- Creating custom hooks for reusable logic
+
+- Styling React apps (CSS modules, styled-components)
+
+- Webpack basics and production build optimization
+
+### Part 8 – GraphQL
+
+- Creating a GraphQL server (Apollo Server)
+
+- Writing schemas, queries, mutations
+
+- Using Apollo Client on the frontend
+
+- Subscriptions and real-time updates
+
+### Part 9 – TypeScript
+
+- TypeScript basics (types, interfaces)
+
+- Adding TypeScript to a React app
+
+- Type-safe API calls and props
+
+### Part 10 – React Native
+
+- Creating a mobile app with React Native
+
+- Navigation and styling
+
+- Using APIs in mobile apps
+
+### Part 11 – CI/CD
+
+- GitHub Actions and other CI tools
+
+- Automated tests and deployments
+
+- Deployment strategies
+
+### Part 12 – Containers
+
+- Introduction to Docker
+
+- Containerizing backend and frontend apps
+
+- Using Docker Compose for multi-container setups
+
+### Part 13 – Using Relational Databases
+
+- PostgreSQL basics and schema design
+
+- Connecting Node.js to relational databases
+
+- Migrations and SQL queries
 
 ---
 
